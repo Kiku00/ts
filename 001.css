@@ -1,5 +1,6 @@
 body {
     background-image: url(ts001.png);
+    background-size: cover;
 }
 
 h1 {
